@@ -2,4 +2,4 @@
 
 ## The calculator for managing
 
-*Note: This program is not affiliated in any way with Circuit or Circuit Professional.
+_Note: This program is not affiliated in any way with Circuit or Circuit Professional._
