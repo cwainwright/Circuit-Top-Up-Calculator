@@ -1,4 +1,5 @@
 /* Monetary Function Declarations */
+
 int set_money(char *message);
 void get_money(int value);
 
